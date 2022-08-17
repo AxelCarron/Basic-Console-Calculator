@@ -1,0 +1,9 @@
+C:\Programacion\ConsoleApplication41\ConsoleApplication41\bin\Debug\ConsoleApplication41.exe.config
+C:\Programacion\ConsoleApplication41\ConsoleApplication41\bin\Debug\ConsoleApplication41.exe
+C:\Programacion\ConsoleApplication41\ConsoleApplication41\bin\Debug\ConsoleApplication41.pdb
+C:\Programacion\ConsoleApplication41\ConsoleApplication41\obj\Debug\ConsoleApplication41.csprojResolveAssemblyReference.cache
+C:\Programacion\ConsoleApplication41\ConsoleApplication41\obj\Debug\ConsoleApplication41.exe
+C:\Programacion\ConsoleApplication41\ConsoleApplication41\obj\Debug\ConsoleApplication41.pdb
+C:\Programacion\Calculadora - Acceso a archivos\ConsoleApplication41\bin\Debug\ConsoleApplication41.exe.config
+C:\Programacion\Calculadora - Acceso a archivos\ConsoleApplication41\obj\Debug\ConsoleApplication41.exe
+C:\Programacion\Calculadora - Acceso a archivos\ConsoleApplication41\obj\Debug\ConsoleApplication41.pdb
